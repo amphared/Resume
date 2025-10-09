@@ -7,13 +7,15 @@ amphared@gmail.com | Tampa, FL | 843-696-8499 | https://www.linkedin.com/in/isaa
 
 CONSUMER PROFESSIONAL
 
-Management professional with demonstrated experience providing operations, customer-centric service, and management support in the telecommunications industry. Proven track record of success in leading employees to improved metrics, training programs, and technical advancements. Dedicated and results-oriented professional with over 35 hours of project management, agile, and a proven track record in change management. Adept at steering complex organizational transitions and fostering a culture of adaptability and innovation. Skilled in strategizing, implementing, and guiding teams through change to achieve desired business objectives. Core competencies include:
-
-Change Management   |   Leadership Development   |   Agile Methodologies   |   Project Management   |   Process Improvement   |   Cross-Functional Collaboration   |   Implementation   |   Operational Efficiency
+Management professional with demonstrated experience providing operations, customer-centric service, and management support in the telecommunications industry. Proven track record of success in leading employees to improved metrics, training programs, and technical advancements. Dedicated and results-oriented professional with over 35 hours of project management, agile, and a proven track record in change management. Adept at steering complex organizational transitions and fostering a culture of adaptability and innovation. Skilled in strategizing, implementing, and guiding teams through change to achieve desired business objectives. 
 
 WORK EXPERIENCE
 
-VERIZON, Multiple Locations (North Charleston, SC + Tampa, FL + Remote)	July 2009-October 2023
+VERIZON
+
+In my role as a supervisor at Verizon, I partnered directly with manufacturing and engineering teams to resolve information gaps within our systems that impacted both customers and internal users. By proactively identifying and addressing these complications, I helped enhance device reliability, network performance, and overall customer experience across the company. These initiatives not only improved operational efficiency but also strengthened trust and transparency across cross-functional teams
+
+Multiple Locations (North Charleston, SC + Tampa, FL + Remote)	July 2009-October 2023
 
 Customer Care Supervisor (August 2022-October 2023)
 
