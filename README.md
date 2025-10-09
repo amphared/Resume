@@ -7,15 +7,15 @@ amphared@gmail.com | Tampa, FL | 843-696-8499 | https://www.linkedin.com/in/isaa
 
 CONSUMER PROFESSIONAL
 
-Management professional with demonstrated experience providing operations, customer-centric service, and management support in the telecommunications industry. Proven track record of success in leading employees to improved metrics, training programs, and technical advancements. Dedicated and results-oriented professional with over 35 hours of project management, agile, and a proven track record in change management. Adept at steering complex organizational transitions and fostering a culture of adaptability and innovation. Skilled in strategizing, implementing, and guiding teams through change to achieve desired business objectives. 
+As an management professional with a background in telecommunications and people-focused leadership. My career has centered on driving engagement, streamlining communication processes, and fostering collaboration across technical and non-technical teams.
+
+Starting in my role as a technical expert to supervisor at Verizon, I partnered directly with manufacturing and engineering teams to resolve information gaps within our systems that impacted both customers and internal users. By proactively identifying and addressing these complications, I helped enhance device reliability, network performance, and overall customer experience across the company. These initiatives not only improved operational efficiency but also strengthened trust and transparency across cross-functional teams.
+
+In addition, I have developed a keen understanding of content strategy and engagement analytics, using data to refine messaging and drive connection across diverse employee groups. My ability to craft thoughtful communications — from leadership spotlights to culture-building campaigns — supports initiatives that inspire participation and align with organizational values.
 
 WORK EXPERIENCE
 
-VERIZON
-
-In my role as a supervisor at Verizon, I partnered directly with manufacturing and engineering teams to resolve information gaps within our systems that impacted both customers and internal users. By proactively identifying and addressing these complications, I helped enhance device reliability, network performance, and overall customer experience across the company. These initiatives not only improved operational efficiency but also strengthened trust and transparency across cross-functional teams
-
-Multiple Locations (North Charleston, SC + Tampa, FL + Remote)	July 2009-October 2023
+VERIZON Multiple Locations (North Charleston, SC + Tampa, FL + Remote)	July 2009-October 2023
 
 Customer Care Supervisor (August 2022-October 2023)
 
