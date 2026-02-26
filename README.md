@@ -1,7 +1,7 @@
 # Resume
 Management Professional
 
-ISAAC JOHNSON
+**ISAAC JOHNSON**
 
 amphared@gmail.com | Tampa, FL | 843-696-8499 | https://www.linkedin.com/in/isaac-w-johnson/
 
@@ -20,11 +20,11 @@ Change adoption strategy
 
 Change Management   |   Leadership Development   |   Agile Methodologies   |   Project Management   |   Process Improvement   |   Cross-Functional Collaboration   |   Implementation   |   Operational Efficiency
 
-WORK EXPERIENCE
+**WORK EXPERIENCE**
 
 VERIZON, Multiple Locations (North Charleston, SC + Tampa, FL + Remote)	July 2009-October 2023
 
-Customer Care Supervisor (August 2022-October 2023)
+**Customer Care Supervisor (August 2022-October 2023)**
 
 Identified operational risk associated with inconsistent hardware lifecycle management during multi-year remote operations.
 
@@ -40,7 +40,7 @@ Reduced lost productivity hours by addressing preventable hardware configuration
 
 Applied hands-on troubleshooting expertise to close knowledge gaps in absence of formal system experts during early SaaS adoption phase.
 
-New Hire Customer Service Supervisor (February 2021-August 2022)
+**New Hire Customer Service Supervisor (February 2021-August 2022)**
 
 Identified a broken user journey (new hire onboarding → independent performance)
 
@@ -68,7 +68,7 @@ To create structure and accountability, I developed a results-driven onboarding 
 
 Additionally, I implemented a six-week feedback and performance review cycle to evaluate ramp-up progress and refine training strategies for future cohorts. This created a continuous improvement loop that enhanced onboarding consistency, improved skill acquisition, and accelerated time to independent productivity.
 
-Technical Support Supervisor (July 2020-February 2021)
+**Technical Support Supervisor (July 2020-February 2021)**
 
 Led remote technical support operations during enterprise-wide transition to SaaS-based workforce management and service platforms.
 
@@ -129,7 +129,7 @@ Developed executive-ready presentations articulating ROI, performance risks, and
 
 Influenced roadmap prioritization decisions despite not having formal product ownership authority.
 
-Interim Assistant Manager (March 2015-September 2015)
+**Interim Assistant Manager (March 2015-September 2015)**
 
 Mentored and guided new hire representatives, developing leadership skills while overseeing onboarding and training initiatives. Facilitated seamless system adoption and delivered comprehensive instruction on Verizon's core principles and call flow processes. Recognized for leading the Northeast's top-performing care team in August.
 
@@ -143,7 +143,7 @@ Key Contributions:
 
 ✔ Regional performance excellence
 
-Technical Expert (November 2010-October 2018)
+**Technical Expert (November 2010-October 2018)**
 
 Transforming customer interactions from retention towards revenue opportunities through expert problem-solving. Specialize in diagnosing cellular devices and carrier networks, resolving technical issues, and escalating network outages. Recognized as a top performer (2015-2017). Led projects boosting insurance add-on revenue by 12% and enhanced mobile app CX by 45% through technical support initiatives.
 
@@ -158,7 +158,7 @@ Key Strengths:
 ✔ Performance excellence
 
 
-EDUCATION
+**EDUCATION**
 
 Western Governors University November 2024
 Master of Business Administration (MBA)
