@@ -19,19 +19,15 @@ Customer Care Supervisor (August 2022-October 2023)
 
 Build a team of Customer Experience experts dedicated to resolving complex issues and understanding root causes for escalated support needs. Partner with CX and Success teams to enhance communication, speed up resolutions, and improve customer/employee experiences. Foster collaboration and accountability through gamification and Google Workspace tools. Analyze Tableau reports to identify training gaps, track KPIs, and coach for skill growth. Spearheaded change management for software integration, boosting adoption by 20% in three months. Led cross-functional process improvements, increasing efficiency by 15% through training and clear communication.
 
-Customer Service Supervisor (February 2021-August 2022)
+New Hire Customer Service Supervisor (February 2021-August 2022)
 
-Built strong relationships with customers worldwide, delivering exceptional service while exemplifying company policies, communication, and work ethic. Partnered with leadership to enhance recruitment, increasing quality hires by 15%, and boosted employee satisfaction by 15% through engagement initiatives. Established performance management systems, raising productivity by 20% with continuous feedback. Developed a skilled CX team to resolve complex issues, reducing attrition by 30% in six months. Led change management during restructuring, minimizing disruption, and designed training programs that improved tool proficiency by 30%.
+One of the key challenges I addressed was improving the transition of new hires from initial onboarding to full performance independence. After completing company orientation, HR discussions, and systems training, new employees lacked a clearly defined roadmap that connected system knowledge to live-call execution and performance expectations. While a general framework existed, it was inconsistent, loosely structured, and not scalable across training classes.
 
-Key Highlights:
+Early in my leadership tenure, I sought guidance from seasoned leaders; however, the feedback was largely conceptual and did not provide a practical, repeatable process. Recognizing this gap, I adopted a more intentional and strategic approach by strengthening collaboration with leaders supporting onboarding and assessing their individual coaching strengths and development opportunities.
 
-✔ 15% better hires & employee satisfaction
+To create structure and accountability, I developed a results-driven onboarding framework grounded in assessment data and performance metrics. I analyzed training class performance to identify experience levels and skill gaps, enabling us to segment new hires into targeted development tracks. This data-informed placement allowed coaching to be customized based on competency rather than tenure.
 
-✔ 20% productivity increase
-
-✔ 30% attrition reduction & training success
-
-✔ Change leadership & process optimization
+Additionally, I implemented a six-week feedback and performance review cycle to evaluate ramp-up progress and refine training strategies for future cohorts. This created a continuous improvement loop that enhanced onboarding consistency, improved skill acquisition, and accelerated time to independent productivity.
 
 Technical Support Supervisor (July 2020-February 2021)
 
@@ -51,17 +47,48 @@ Key Impact:
 
 Technical Advisor (October 2018-July 2020)
 
-Analyze KPIs to enhance first-call resolution, revenue growth, and tool adoption. Collaborate with IT to optimize user interfaces, mobile apps, and marketing systems. Spearheaded gamification initiatives to boost call center engagement and productivity. Partnered in small groups to assist the establishment of "Forward" - a centralized knowledge hub for employee resources and work-life balance support.
+✔ Discovery & Insight Gathering
 
-Key Achievements:
+Synthesized cross-functional feedback from frontline teams, operations, and leadership to identify friction points in internal systems and customer journey workflows.
 
-✔ KPI-driven performance improvements
+Analyzed customer experience data and performance KPIs to uncover systemic inefficiencies impacting hold times, call transfers, and attrition.
 
-✔ Cross-functional tech optimizations
+Conducted recurring strategic alignment meetings with West Area Director to present data-backed improvement opportunities and emerging market trends.
 
-✔ Gamified employee engagement
+✔ Market & Opportunity Evaluation
 
-✔ Knowledge-sharing platform development
+Identified and presented competitive market opportunity for a branded customer credit card program designed to drive loyalty and discount-based incentives.
+
+Developed value proposition narrative aligning customer qualification models with business revenue and retention objectives.
+
+Influenced stakeholder decision-making that resulted in program launch within six months.
+Product Concept Development (Internal Platform)
+
+✔ Centralized Knowledge & Collaboration Platform
+
+Contributed to ideation and refinement of a centralized internal knowledge-sharing system designed to reduce departmental silos.
+
+Consolidated use cases across departments to define system requirements supporting employee collaboration, inquiry routing, and operational transparency.
+
+Presented expected performance impact on attrition, hold times, adjusted calls, and customer experience metrics.
+
+Supported adoption strategy through awareness campaigns and training alignment.
+
+✔ Engagement & Adoption Strategy (Gamification Initiative)
+
+Designed and implemented KPI-based gamification framework embedded into work systems to drive behavioral alignment with revenue, retention, and quality targets.
+
+Created incentive structures tied to measurable performance outputs, improving engagement and tool utilization.
+
+Leveraged behavioral data to refine participation mechanics and sustain long-term adoption.
+
+✔ Stakeholder Influence & Strategic Communication
+
+Served as liaison between frontline operations, IT, and senior leadership to translate qualitative feedback into actionable improvement proposals.
+
+Developed executive-ready presentations articulating ROI, performance risks, and expected business impact.
+
+Influenced roadmap prioritization decisions despite not having formal product ownership authority.
 
 Interim Assistant Manager (March 2015-September 2015)
 
