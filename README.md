@@ -7,7 +7,16 @@ amphared@gmail.com | Tampa, FL | 843-696-8499 | https://www.linkedin.com/in/isaa
 
 CONSUMER PROFESSIONAL
 
-Management professional with demonstrated experience providing operations, customer-centric service, and management support in the telecommunications industry. Proven track record of success in leading employees to improved metrics, training programs, and technical advancements. Dedicated and results-oriented professional with over 35 hours of project management, agile, and a proven track record in change management. Adept at steering complex organizational transitions and fostering a culture of adaptability and innovation. Skilled in strategizing, implementing, and guiding teams through change to achieve desired business objectives. Core competencies include:
+People leadership at multiple levels
+Systems thinking
+
+Behavior design
+
+KPI ownership
+
+Cross-functional orchestration
+
+Change adoption strategy
 
 Change Management   |   Leadership Development   |   Agile Methodologies   |   Project Management   |   Process Improvement   |   Cross-Functional Collaboration   |   Implementation   |   Operational Efficiency
 
@@ -17,9 +26,39 @@ VERIZON, Multiple Locations (North Charleston, SC + Tampa, FL + Remote)	July 200
 
 Customer Care Supervisor (August 2022-October 2023)
 
-Build a team of Customer Experience experts dedicated to resolving complex issues and understanding root causes for escalated support needs. Partner with CX and Success teams to enhance communication, speed up resolutions, and improve customer/employee experiences. Foster collaboration and accountability through gamification and Google Workspace tools. Analyze Tableau reports to identify training gaps, track KPIs, and coach for skill growth. Spearheaded change management for software integration, boosting adoption by 20% in three months. Led cross-functional process improvements, increasing efficiency by 15% through training and clear communication.
+Identified operational risk associated with inconsistent hardware lifecycle management during multi-year remote operations.
+
+Provided structured feedback to IT leadership highlighting productivity losses caused by staggered legacy equipment replacement.
+
+Led activation and deployment support for enterprise-wide hardware refresh initiative impacting tenured remote workforce.
+
+Served as escalation resource for peer supervisors during equipment rollout, improving activation efficiency and reducing supervisor downtime.
+
+Partnered cross-functionally with IT to refine installation guidance and improve end-user setup experience.
+
+Reduced lost productivity hours by addressing preventable hardware configuration issues before escalation.
+
+Applied hands-on troubleshooting expertise to close knowledge gaps in absence of formal system experts during early SaaS adoption phase.
 
 New Hire Customer Service Supervisor (February 2021-August 2022)
+
+Identified a broken user journey (new hire onboarding → independent performance)
+
+Noticed inconsistency and scalability issues
+
+Conducted stakeholder discovery
+
+Used performance data to segment users
+
+Designed a structured framework (solution design)
+
+Implemented iteration cycles (6-week review cadence)
+
+Created feedback loops
+
+Measured impact
+
+Improved time-to-productivity
 
 One of the key challenges I addressed was improving the transition of new hires from initial onboarding to full performance independence. After completing company orientation, HR discussions, and systems training, new employees lacked a clearly defined roadmap that connected system knowledge to live-call execution and performance expectations. While a general framework existed, it was inconsistent, loosely structured, and not scalable across training classes.
 
@@ -31,21 +70,21 @@ Additionally, I implemented a six-week feedback and performance review cycle to 
 
 Technical Support Supervisor (July 2020-February 2021)
 
-Led a high-performing remote CX team to deliver exceptional service aligned with company values. Drove key business KPIs—boosting revenue, add-on sales, and reducing churn—through cross-functional collaboration. Presented performance metrics and strategic initiatives to senior leadership. Championed agile and lean methodologies to optimize team development. Mentored 67% of reps into technical support roles, enhancing career growth. Designed training materials and structured pilot project guidelines for seamless execution.
+Led remote technical support operations during enterprise-wide transition to SaaS-based workforce management and service platforms.
 
-Key Impact:
+Monitored platform reliability using Supervisor SaaS tools, diagnosing connectivity disruptions between employee ISP networks and company-provided systems.
 
-✔ Revenue & retention growth
+Identified recurring failure patterns related to ISP firewall configurations and software update conflicts, reducing recurring offline time through structured escalation to IT.
 
-✔ Leadership presentations & strategy
+Established incident documentation framework to streamline IT engagement and accelerate issue resolution cycles.
 
-✔ 67% promotion rate for team members
+Partnered with IT to surface systemic risks tied to external ISP dependencies and internal update timing.
 
-✔ Agile process improvement
+Reduced operational downtime by proactively identifying connection integrity issues prior to widespread disruption.
 
-✔ Training & pilot program development
+Transitioned team from in-person oversight to remote performance governance by implementing structured digital monitoring and accountability processes.
 
-Technical Advisor (October 2018-July 2020)
+Customer Experience Product Strategist (October 2018-July 2020)
 
 ✔ Discovery & Insight Gathering
 
@@ -66,7 +105,7 @@ Product Concept Development (Internal Platform)
 
 ✔ Centralized Knowledge & Collaboration Platform
 
-Contributed to ideation and refinement of a centralized internal knowledge-sharing system designed to reduce departmental silos.
+Contributed to ideation and refinement of a centralized internal knowledge-sharing system designed to reduce departmental compartmentalization.
 
 Consolidated use cases across departments to define system requirements supporting employee collaboration, inquiry routing, and operational transparency.
 
